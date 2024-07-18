@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "pedal-component-footprint")(type "KiCad")(uri "${KIPRJMOD}/../footprints/pedal-component-footprint.pretty")(options "")(descr ""))
+  (lib (name "MBP pots")(type "KiCad")(uri "${KIPRJMOD}/../footprints/MadbeanV3ForKiCad/potentiometers.pretty")(options "")(descr ""))
+  (lib (name "MBP switches")(type "KiCad")(uri "${KIPRJMOD}/../footprints/MadbeanV3ForKiCad/switches.pretty")(options "")(descr ""))
+)
