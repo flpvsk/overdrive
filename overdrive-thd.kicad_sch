@@ -1241,7 +1241,7 @@
     (property "Value" "+9v" (id 1) (at 49.53 22.8599 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal" (id 2) (at 48.26 20.32 0)
+    (property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (id 2) (at 48.26 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 48.26 20.32 0)
@@ -1526,7 +1526,7 @@
       (reference "J2") (unit 1) (value "Out") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/8337f5aa-e6c3-4d74-90aa-6db61a749902"
-      (reference "J3") (unit 1) (value "+9v") (footprint "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal")
+      (reference "J3") (unit 1) (value "+9v") (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical")
     )
     (path "/3376e7f1-9c4e-4991-8d28-37d4d26b04cb"
       (reference "J4") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
